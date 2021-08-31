@@ -25,7 +25,7 @@ const AboutSection = () => {
           that make your forgotten dreams come back and resurface as vividly as
           they were the last time you saw them.
         </p>
-        <button>Visualize with Us</button>
+        <button>Visualize Again With Us</button>
       </div>
       <div className='image'>
         <img src={home1} alt='guy with a camera' />
